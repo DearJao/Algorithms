@@ -27,7 +27,6 @@
       - Dê um git clone no seu terminal de sua maquina um pasta vazia para instalar o projeto desta maneira:</br>
         git clone git@github.com:DearJao/Algorithms.git</br>
         </br>
-        </br>
       - Crie o ambiente virtual para o projeto</br>
         python3 -m venv .venv && source .venv/bin/activate
         </br>
